@@ -43,3 +43,10 @@ example
 # generated native folders
 /ios
 /android
+
+local env files
+
+.env
+.env.*
+!.env.example
+.env*.local
